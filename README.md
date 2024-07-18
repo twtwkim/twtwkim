@@ -28,8 +28,8 @@
 </div>
 
 ## Projects
-1. [Project 직관의 맛(프론트엔드)](https://github.com/twtwkim/project.React.git) - React(vite)
-2. [Project 직관의 맛(백엔드)](https://github.com/twtwkim/project.React-Server.git) - React
+1. [Project1. 직관의 맛](https://github.com/twtwkim/project1.git) - React(vite)
+
 
 ## GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=twtwkim&show_icons=true&theme=radical)
