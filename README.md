@@ -28,7 +28,7 @@
 </div>
 
 ## Projects
-1. [Project1. 직관의 맛](https://github.com/twtwkim/project1.git) - React(vite)
+1. [Project1. 직관의 맛](https://github.com/twtwkim/project1.git) - React(Vite)
 2. [Project2. 유튜브](https://github.com/twtwkim/project2.git) - React
 
 
