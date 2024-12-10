@@ -31,14 +31,13 @@
 
 ## Projects
 1. [Project1. 직관의 맛](https://github.com/twtwkim/project1.git) - React(Vite)
-2. [Project2. 유튜브](https://github.com/twtwkim/project2.git) - React
+2. [Project2. Fandom-K](https://github.com/twtwkim/Fandom-k.git) - React, CSS Module
 
 
 ## GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=twtwkim&show_icons=true&theme=radical)
 
 ## Connect with Me
-<a href="mailto:alfog23@gmail.com">
-    <img
-      src="https://img.shields.io/badge/alfog23@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+메일<a href="mailto:alfog23@gmail.com">
+alfog23@gmail.com   
 </a>
