@@ -9,6 +9,10 @@ alfog23@gmail.com
 </a>
 블로그: <a href="https://velog.io/@alfog2">벨로그 방문</a>
 
+## Projects
+1. [Project1. 직관의 맛](https://github.com/twtwkim/project1.git) - React(Vite), styled-components, Koa.js, MongoDB
+2. [Project2. Fandom-K](https://github.com/twtwkim/Fandom-k.git) - React, CSS Module
+
 ## Skills
 <h3>👌 Stack 👌</h3>
  <div>
@@ -33,11 +37,6 @@ alfog23@gmail.com
   <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
   <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
 </div>
-
-## Projects
-1. [Project1. 직관의 맛](https://github.com/twtwkim/project1.git) - React(Vite), styled-components, Koa.js, MongoDB
-2. [Project2. Fandom-K](https://github.com/twtwkim/Fandom-k.git) - React, CSS Module
-
 
 ## GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=twtwkim&show_icons=true&theme=radical)
