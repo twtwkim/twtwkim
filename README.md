@@ -35,7 +35,7 @@ alfog23@gmail.com
 </div>
 
 ## Projects
-1. [Project1. 직관의 맛](https://github.com/twtwkim/project1.git) - React(Vite)
+1. [Project1. 직관의 맛](https://github.com/twtwkim/project1.git) - React(Vite), styled-components, Koa.js, MongoDB
 2. [Project2. Fandom-K](https://github.com/twtwkim/Fandom-k.git) - React, CSS Module
 
 
