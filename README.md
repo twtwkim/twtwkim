@@ -4,6 +4,11 @@
 화면 너머의 사용자와 소통하는 프론트엔드 개발자 김태완입니다.
 🌱🌱 언젠가 풀스택
 
+메일: <a href="mailto:alfog23@gmail.com">
+alfog23@gmail.com   
+</a>
+블로그: <a href="https://velog.io/@alfog2">벨로그 방문</a>
+
 ## Skills
 <h3>👌 Stack 👌</h3>
  <div>
@@ -36,8 +41,3 @@
 
 ## GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=twtwkim&show_icons=true&theme=radical)
-
-## Connect with Me
-메일<a href="mailto:alfog23@gmail.com">
-alfog23@gmail.com   
-</a>
