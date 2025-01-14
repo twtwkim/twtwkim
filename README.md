@@ -3,6 +3,7 @@
 ## About Me
 안 되면 되게 하는 프론트엔드 개발자, 김태완입니다.
 <br/>
+<br/>
 🌱 언젠가 풀스택 🌱
 
 메일: <a href="mailto:alfog23@gmail.com">
