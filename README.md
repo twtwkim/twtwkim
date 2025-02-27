@@ -1,7 +1,7 @@
 # Hello!!👋
 
 ## About Me
-안 되면 되게 하는 프론트엔드 개발자, 김태완입니다.
+사용자 경험을 지키는 프론트엔드 개발자, 김태완입니다.
 <br/>
 <br/>
 🌱 언젠가 풀스택 🌱
@@ -15,6 +15,7 @@ alfog23@gmail.com
 1. [Project1. 직관의 맛](https://github.com/twtwkim/project1.git) - React(Vite), styled-components, Koa.js, MongoDB
 2. [Project2. Fandom-K](https://github.com/twtwkim/Fandom-k.git) - React.js, CSS Module
 3. [Project3. Taskify](https://github.com/twtwkim/Taskify.git) - React.js, TypeScript, Next.js, CSS Module, Redux
+4. [Project4.Global Nomad](https://github.com/twtwkim/GlobalNomad.git) - React.js, TypeScript, Next.js, CSS Module, Redux
 
 ## Skills
 <h3>👌 Stack 👌</h3>
